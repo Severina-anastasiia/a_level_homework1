@@ -15,5 +15,11 @@ public class Main {
 	    task5.Snail();
 	    Max task6 = new Max();
 	    task6.Max();
+	    Rook task7 = new Rook();
+	    task7.Rook();
+	    NumberOfEqualsOfThree task8 = new NumberOfEqualsOfThree();
+	    task8.Equals();
+        LargerThanThePrevious task9 = new LargerThanThePrevious();
+        task9.Larger();
     }
 }
